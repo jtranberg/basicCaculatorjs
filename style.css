@@ -1,0 +1,26 @@
+body {
+    column-count: 2;
+
+
+    background: rgb(56, 172, 193);
+}
+#value1 {
+    background: rgb(66, 26, 153);
+    color: rgb(240, 227, 227);
+    
+}
+#value2 {
+    background: rgb(14, 66, 90);
+    color: rgb(249, 237, 237);
+
+}
+#operator {
+    background: rgb(199, 11, 11);
+}
+#button {
+    background: rgb(160, 40, 112);
+}
+* {
+    color: rgb(82, 35, 3);
+    border-radius: .3rem;
+}
